@@ -1,4 +1,4 @@
 # project-Saturejka
 
 
-https://kodim.cz/czechitas/daweb/zaklady-gitu/seznameni
+zdroj: https://kodim.cz/czechitas/daweb/zaklady-gitu/seznameni
